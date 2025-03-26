@@ -1,0 +1,18 @@
+#google{
+    color:aqua;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.home-footer{
+    color:chocolate;
+    font-weight: bold;
+}
+
+body {
+    background-image:url('images/romantic\ beach\ kiss.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
